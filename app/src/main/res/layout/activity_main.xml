@@ -15,6 +15,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:clickable="true"
+        android:drawableTop="@drawable/selector_tv_1_drawable_top"
         android:drawableEnd="@drawable/selector_tv_1_drawable_right"
         android:drawableLeft="@drawable/selector_tv_1_drawable_left"
         android:drawablePadding="8dp"
